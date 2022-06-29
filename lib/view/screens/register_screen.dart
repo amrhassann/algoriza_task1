@@ -192,12 +192,14 @@ class RegisterScreen extends StatelessWidget {
                     ],
                   ),
                   CustomText(
-                    text: "Use the application according to policy rules, Any kinds of violations will be subject to sanction.",
+                    text: "By registering your account, you are agree to our",
                     fontSize: 17,
                     color: Colors.grey,
                     textAlignment: Alignment.center,
                   ),
-
+                  TextButton(onPressed: (){},
+                      child: const Text('terms and condition',style: TextStyle(fontSize: 16,),)),
+                  const SizedBox(height: 10,)
                 ],
               ),
             ),
