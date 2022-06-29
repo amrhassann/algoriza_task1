@@ -5,12 +5,12 @@
 
 ![](assets/images/onboarding.png) 
 
--> login screen
-![](assets/images/register.png)
-
--> register screen 
+-> sign in screen
 ![](assets/images/signin.png)
 
+-> register screen 
+
+![](assets/images/register.png)
 
 
 
