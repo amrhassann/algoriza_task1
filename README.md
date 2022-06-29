@@ -3,9 +3,14 @@
 
 -> onBoarding 
 
-![](assets/images/onboarding.png) ![](assets/images/register.png)![](assets/images/signin.png)
+![](assets/images/onboarding.png) 
 
 -> login screen
+![](assets/images/register.png)
 
 -> register screen 
+![](assets/images/signin.png)
+
+
+
 
