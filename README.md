@@ -3,7 +3,7 @@
 
 -> onBoarding 
 
-![](algoriza_task1/assets/images/onboarding.png)
+![](assets/images/onboarding.png)
 
 -> login screen
 ![](algoriza_task1/assets/images/signin.png)
