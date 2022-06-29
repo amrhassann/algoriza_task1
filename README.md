@@ -3,9 +3,9 @@
 
 -> onBoarding 
 
-![](assets/images/onboarding.png)
+![](assets/images/onboarding.png) ![](assets/images/register.png)![](assets/images/signin.png)
 
 -> login screen
-![](algoriza_task1/assets/images/signin.png)
+
 -> register screen 
-![](algoriza_task1/assets/images/register.png)
+
